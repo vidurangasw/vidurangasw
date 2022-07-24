@@ -1,0 +1,60 @@
+.header{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 8px;
+
+    
+}
+body{
+    background-color: #e6f3ff;
+    padding: 2cm;
+
+
+}
+.tagline{
+    color: blueviolet;
+    font-style: italic;
+}
+
+.img1{
+    float: left;
+}
+img2{
+    float: right;
+}
+img{
+    float: right;
+}
+
+
+
+
+
+.pricetopic{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 150px;
+}
+
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+td, th{
+    text-align: left;
+    padding: 16px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+}
